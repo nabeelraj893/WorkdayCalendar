@@ -1,19 +1,37 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\PAK COMPUTERS\\source\\repos\\WorkdayCalendar\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3419FCB0-B4E6-464E-8007-C72AE372CF0F}|Solution Items{3419FCB0-B4E6-464E-8007-C72AE372CF0F}|C:\\Users\\PAK COMPUTERS\\source\\repos\\WorkdayCalendar\\.gitignore.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{3419FCB0-B4E6-464E-8007-C72AE372CF0F}|Solution Items{3419FCB0-B4E6-464E-8007-C72AE372CF0F}|solutionrelative:.gitignore.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 1,
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedHeight": 44,
-          "SelectedChildIndex": -1,
+          "DockedHeight": 74,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:14:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": ".gitignore.txt",
+              "DocumentMoniker": "C:\\Users\\PAK COMPUTERS\\source\\repos\\WorkdayCalendar\\.gitignore.txt",
+              "RelativeDocumentMoniker": ".gitignore.txt",
+              "ToolTip": "C:\\Users\\PAK COMPUTERS\\source\\repos\\WorkdayCalendar\\.gitignore.txt",
+              "RelativeToolTip": ".gitignore.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-04-02T09:42:40.565Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",

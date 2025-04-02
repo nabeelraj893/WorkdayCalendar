@@ -1,55 +1,14 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\PAK COMPUTERS\\source\\repos\\WorkdayCalendar\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{E1F15C4D-7D88-4D3D-B8E5-23635F26CF5F}|WorkdayCalendar\\WorkdayCalendar.csproj|c:\\users\\pak computers\\source\\repos\\workdaycalendar\\workdaycalendar\\userinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E1F15C4D-7D88-4D3D-B8E5-23635F26CF5F}|WorkdayCalendar\\WorkdayCalendar.csproj|solutionrelative:workdaycalendar\\userinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3419FCB0-B4E6-464E-8007-C72AE372CF0F}|Solution Items{3419FCB0-B4E6-464E-8007-C72AE372CF0F}|C:\\Users\\PAK COMPUTERS\\source\\repos\\WorkdayCalendar\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
-      "RelativeMoniker": "D:0:0:{3419FCB0-B4E6-464E-8007-C72AE372CF0F}|Solution Items{3419FCB0-B4E6-464E-8007-C72AE372CF0F}|solutionrelative:README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 1,
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedHeight": 70,
-          "SelectedChildIndex": 0,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "UserInterface.cs",
-              "DocumentMoniker": "C:\\Users\\PAK COMPUTERS\\source\\repos\\WorkdayCalendar\\WorkdayCalendar\\UserInterface.cs",
-              "RelativeDocumentMoniker": "WorkdayCalendar\\UserInterface.cs",
-              "ToolTip": "C:\\Users\\PAK COMPUTERS\\source\\repos\\WorkdayCalendar\\WorkdayCalendar\\UserInterface.cs",
-              "RelativeToolTip": "WorkdayCalendar\\UserInterface.cs",
-              "ViewState": "AgIAADIAAAAAAAAAAAAAAD8AAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-02T07:17:03.082Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "README.md",
-              "DocumentMoniker": "C:\\Users\\PAK COMPUTERS\\source\\repos\\WorkdayCalendar\\README.md",
-              "RelativeDocumentMoniker": "README.md",
-              "ToolTip": "C:\\Users\\PAK COMPUTERS\\source\\repos\\WorkdayCalendar\\README.md",
-              "RelativeToolTip": "README.md",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2025-04-02T07:00:02.235Z",
-              "EditorCaption": ""
-            }
-          ]
-        },
-        {
-          "DockedHeight": 48,
+          "DockedHeight": 74,
           "SelectedChildIndex": -1,
           "Children": [
             {

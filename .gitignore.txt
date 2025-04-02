@@ -1,0 +1,21 @@
+# Ignore build folders
+/bin/
+/obj/
+
+# Ignore user-specific files
+*.user
+*.userosscache
+*.suo
+*.sln.docstates
+
+# Ignore test results
+TestResults/
+
+# Ignore logs and temporary files
+*.log
+*.tmp
+
+# Ignore compiled files (binaries)
+*.dll
+*.exe
+*.pdb

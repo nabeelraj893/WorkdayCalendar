@@ -530,6 +530,7 @@ C:\Users\PAK COMPUTERS\source\repos\WorkdayCalendar\WorkdayCalendar.Tests\obj\De
 C:\Users\PAK COMPUTERS\source\repos\WorkdayCalendar\WorkdayCalendar.Tests\obj\Debug\net8.0\WorkdayCalendar.Tests.AssemblyInfoInputs.cache
 C:\Users\PAK COMPUTERS\source\repos\WorkdayCalendar\WorkdayCalendar.Tests\obj\Debug\net8.0\WorkdayCalendar.Tests.AssemblyInfo.cs
 C:\Users\PAK COMPUTERS\source\repos\WorkdayCalendar\WorkdayCalendar.Tests\obj\Debug\net8.0\WorkdayCalendar.Tests.csproj.CoreCompileInputs.cache
+C:\Users\PAK COMPUTERS\source\repos\WorkdayCalendar\WorkdayCalendar.Tests\obj\Debug\net8.0\WorkdayCalendar.Tests.sourcelink.json
 C:\Users\PAK COMPUTERS\source\repos\WorkdayCalendar\WorkdayCalendar.Tests\obj\Debug\net8.0\WorkdayC.18866E00.Up2Date
 C:\Users\PAK COMPUTERS\source\repos\WorkdayCalendar\WorkdayCalendar.Tests\obj\Debug\net8.0\WorkdayCalendar.Tests.dll
 C:\Users\PAK COMPUTERS\source\repos\WorkdayCalendar\WorkdayCalendar.Tests\obj\Debug\net8.0\refint\WorkdayCalendar.Tests.dll
